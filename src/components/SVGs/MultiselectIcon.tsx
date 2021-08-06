@@ -1,0 +1,1 @@
+export const MultiselectIcon = ({className = ''}) => <svg className={className} xmlns='http://www.w3.org/2000/svg' width='28' height='28' viewBox='0 0 24 24'><path d="M7 10l5 5 5-5z" /></svg>;
