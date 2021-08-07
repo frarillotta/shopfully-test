@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Drawer when the drawer is opened should have a consistent snapshot 1`] = `
+<div>
+  <div
+    class="Drawer__Wrapper-sc-1r57jg0-0 iTJog"
+  >
+    <div
+      class="Drawer__Backdrop-sc-1r57jg0-1 ipSlzk"
+    />
+    <aside
+      class="Drawer__Aside-sc-1r57jg0-2 ffAEfq"
+    >
+      <div>
+        mock content
+      </div>
+    </aside>
+  </div>
+</div>
+`;
+
+exports[`Drawer when the drawer is rendered should have a consistent snapshot 1`] = `<div />`;

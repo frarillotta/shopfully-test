@@ -41,7 +41,7 @@ export function Drawer({openerEl, children}: DrawerProps) {
 		{isExpanded && 
 			<Wrapper>
 				<Backdrop/>
-				<Aside ref={drawerEl}>
+				<Aside id={'drawer'} ref={drawerEl}>
 					{children}
 				</Aside>
 			</Wrapper>

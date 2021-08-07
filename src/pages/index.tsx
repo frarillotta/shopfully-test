@@ -4,7 +4,7 @@ import { getFlyers, getCategories, getRetailers } from '../API';
 import { toMap, decorateFlyers } from '../utils';
 import { useCallback, useMemo, useRef, useState } from 'react';
 import { useLocalStorage } from '../hooks';
-import { SearchInput, Drawer, Grid, DropdownMultiSelect, DropdownSingleSelect, Dehaze, Heart } from '../components';
+import { SearchInput, Drawer, Grid, DropdownMultiSelect, Dehaze, Heart } from '../components';
 
 export default function Home() {
 
@@ -46,7 +46,7 @@ export default function Home() {
 	if (activeFilters.endDate) {
 		const date = new Date(activeFilters.endDate);
 		flyers = flyers.filter((flyer) => 
-			new Date(flyer.end_date) < date
+			new Date(flyer.end_date) >= date
 		);
 	};
 
@@ -86,7 +86,8 @@ export default function Home() {
 						setActiveFilters((activeFilters) => ({...activeFilters, retailers: filters}));
 					}, [])}
 				/>
-				<DropdownSingleSelect 
+				<DropdownMultiSelect 
+					variant={'single'}
 					defaultValue={'Exp. date'} 
 					list={flyerEndDates} 
 					setFilter={useCallback((filter: string) => { 
@@ -116,7 +117,7 @@ export default function Home() {
 						{bookmarkedFlyers.map( flyer => (
 							<DrawerFlyers key={flyer.id}>
 								<DrawerFlyersIcon onClick={() => removeFlyer(flyer.id)}><Heart/></DrawerFlyersIcon>
-								<DrawerFlyersLabel>{flyer.title}</DrawerFlyersLabel>
+								<DrawerFlyersLabel id={'drawer-label'}>{flyer.title}</DrawerFlyersLabel>
 							</DrawerFlyers>
 						))}
 					</DrawerContent>

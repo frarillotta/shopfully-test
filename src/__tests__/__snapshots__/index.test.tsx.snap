@@ -1,0 +1,4244 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Homepage should have a consistent snapshot 1`] = `
+<div>
+  <header
+    class="pages__Header-sc-15y7g01-0 RDVlX"
+  >
+    <button
+      class="pages__DrawerButton-sc-15y7g01-9 lceXZr"
+    >
+      <svg
+        aria-hidden="true"
+        class=""
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M2 15.5v2h20v-2H2zm0-5v2h20v-2H2zm0-5v2h20v-2H2z"
+        />
+      </svg>
+    </button>
+    <h1
+      class="pages__HeaderTitle-sc-15y7g01-1 huJVtd"
+    >
+      ShopFully
+    </h1>
+  </header>
+  <div
+    class="pages__SearchWrapper-sc-15y7g01-2 cGbxlc"
+  >
+    <div
+      class="SearchInput__Wrapper-sc-16ggnbp-0 mNaa-d"
+    >
+      <div
+        class="SearchInput__InputWrapper-sc-16ggnbp-2 bdJLXi"
+      >
+        <svg
+          aria-hidden="true"
+          class="SearchInput__Icon-sc-16ggnbp-1 kYqEic"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+          />
+        </svg>
+        <datalist
+          id="searchQueries"
+        >
+          <option
+            value="Sport acquatici - sup gonfiabile"
+          />
+          <option
+            value="Il gusto dell'estate."
+          />
+          <option
+            value="Promozione Purina"
+          />
+          <option
+            value="50 Prodotti al 50%"
+          />
+          <option
+            value="Il sole entra in casa"
+          />
+          <option
+            value="L'estate sta arrivando."
+          />
+          <option
+            value="L'estate sta arrivando"
+          />
+          <option
+            value="Fare e rinnovare Soluzioni e occasioni!"
+          />
+          <option
+            value="Brochure Gusto & Benessere"
+          />
+          <option
+            value="Sta arrivando l'estate"
+          />
+          <option
+            value="Estate in Vacanza"
+          />
+          <option
+            value="PENNY a Prato"
+          />
+          <option
+            value="Nuova apertura PENNY a Prato"
+          />
+          <option
+            value="Europei MediaWorld"
+          />
+          <option
+            value="La partita si gioca dove sei tu!"
+          />
+          <option
+            value="Sconti di stagione."
+          />
+          <option
+            value="L'estate addosso"
+          />
+          <option
+            value="I cattivissimi scendono in campo"
+          />
+          <option
+            value="Cancellazione gratuita"
+          />
+          <option
+            value="Passione biciclette"
+          />
+          <option
+            value="Nuova apertura PENNY a Torino"
+          />
+          <option
+            value="Nuova apertura a Torino"
+          />
+          <option
+            value="Primavera in risparmio"
+          />
+          <option
+            value="Apertura a Gorgonzola!"
+          />
+          <option
+            value="Auguri Mediaworld!"
+          />
+          <option
+            value="SOTTOCOSTO MediaWorld!"
+          />
+          <option
+            value="La spesa senza stress"
+          />
+          <option
+            value="La spesa e senza stress!"
+          />
+          <option
+            value="Metti in luce la tua bellezza"
+          />
+          <option
+            value="Vivere Bene Conviene"
+          />
+          <option
+            value="Speciale anniversario"
+          />
+          <option
+            value="X Days di MediaWorld!"
+          />
+          <option
+            value="Goditi la bella-stagione"
+          />
+          <option
+            value="Fare-e rinnovare. Soluzioni e occasioni!"
+          />
+          <option
+            value="Apertura"
+          />
+          <option
+            value="Goditi la bella stagione"
+          />
+          <option
+            value="Fare e rinnovare. Soluzioni e occasioni!"
+          />
+          <option
+            value="Apertura Genova"
+          />
+          <option
+            value="Maxi formato grande convenienza."
+          />
+          <option
+            value="Passione"
+          />
+          <option
+            value="Speciale Piscine"
+          />
+          <option
+            value="Sconto del 25% su tanti prodotti"
+          />
+          <option
+            value="Prendi al volo le migliori offerte"
+          />
+          <option
+            value="Catalogo Divani"
+          />
+          <option
+            value="Brochure Giardino 2021"
+          />
+          <option
+            value="Volantino settimanale"
+          />
+          <option
+            value="Il TOP della Tecnologia"
+          />
+          <option
+            value="Camerette"
+          />
+          <option
+            value="Apple Music"
+          />
+          <option
+            value="Tutto a 1€ 2€ 3€ e tante altre offerte"
+          />
+          <option
+            value="Sconto Green"
+          />
+          <option
+            value="SCONTO SUBITO"
+          />
+          <option
+            value="Nuova Energia alla tua casa"
+          />
+          <option
+            value="Lidl Viaggi"
+          />
+          <option
+            value="Il colore della convenienza."
+          />
+          <option
+            value="Pasqua"
+          />
+          <option
+            value="Vivi i tuoi spazi esterni"
+          />
+          <option
+            value="0% il meglio degli accessori"
+          />
+          <option
+            value="Una buona Pasqua"
+          />
+          <option
+            value="La moda cresce con loro"
+          />
+          <option
+            value="0% muoviti smart"
+          />
+          <option
+            value="Auguri frizzanti."
+          />
+          <option
+            value="Nuova apertura a Prato."
+          />
+          <option
+            value="Nuova apertura a Prato!"
+          />
+          <option
+            value="Porta fuori il tuo stile"
+          />
+          <option
+            value="La spesa online"
+          />
+          <option
+            value="La spesa online."
+          />
+          <option
+            value="Offerte Decathlon "
+          />
+          <option
+            value="Buona festa del papà"
+          />
+          <option
+            value="0% rimaniamo connessi"
+          />
+          <option
+            value="Brochure Pasqua 2021"
+          />
+          <option
+            value="Prezzi dolcissimi."
+          />
+          <option
+            value="Eccellenze al femminile"
+          />
+          <option
+            value="Bontà e convenienza "
+          />
+          <option
+            value="Crescere con Amore"
+          />
+          <option
+            value="Il festival del risparmio"
+          />
+          <option
+            value="Consegna Gratuita"
+          />
+          <option
+            value="Weekend Shock!"
+          />
+          <option
+            value="La pasqua in tavola"
+          />
+          <option
+            value="La forza del risparmio."
+          />
+          <option
+            value="La tua casa come piace a te"
+          />
+          <option
+            value="Scopri il negozio tutto rinnovato"
+          />
+          <option
+            value="Regali speciali per donne uniche"
+          />
+          <option
+            value="Immergi la tua casa nel verde"
+          />
+          <option
+            value="Preparati alla bella stagione!"
+          />
+          <option
+            value="E' arrivato un nuovo modo per fare la spesa"
+          />
+          <option
+            value="Il colore della qualità."
+          />
+          <option
+            value="Cucine 2021"
+          />
+          <option
+            value="Guardaroba 2021"
+          />
+          <option
+            value="Catalogo 2021"
+          />
+          <option
+            value="Guarda che fresco!"
+          />
+          <option
+            value="Catalogo Giardinaggio"
+          />
+          <option
+            value="Tante offerte a 1 €"
+          />
+          <option
+            value="Prezzi da batticuore"
+          />
+          <option
+            value="La convenienza è un'eccellenza."
+          />
+          <option
+            value="Dall'11 al 25 febbraio"
+          />
+          <option
+            value="Dal 8 al 25 febbraio"
+          />
+          <option
+            value="Sconti di stagione"
+          />
+          <option
+            value="Speciale 2021"
+          />
+          <option
+            value="Fino al 50% di sconti"
+          />
+        </datalist>
+        <input
+          class="SearchInput__Input-sc-16ggnbp-3 ifeTUt"
+          list="searchQueries"
+          placeholder="Search a Flyer"
+          type="search"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="pages__DropdownsWrapper-sc-15y7g01-4 rRiCO"
+  >
+    <form
+      class="DropdownMultiSelect__Wrapper-sc-1l0dd9j-0 gkeTch"
+    >
+      <fieldset
+        class="DropdownMultiSelect__MultiselectButton-sc-1l0dd9j-1 kAKvnI"
+        tabindex="0"
+      >
+        <label
+          class="DropdownMultiSelect__CurrentSelection-sc-1l0dd9j-4 ciGzIm"
+        >
+          Category
+        </label>
+        <svg
+          class="DropdownMultiSelect__DropdownIcon-sc-1l0dd9j-2 nofyI"
+          height="28"
+          viewBox="0 0 24 24"
+          width="28"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </fieldset>
+    </form>
+    <form
+      class="DropdownMultiSelect__Wrapper-sc-1l0dd9j-0 gkeTch"
+    >
+      <fieldset
+        class="DropdownMultiSelect__MultiselectButton-sc-1l0dd9j-1 kAKvnI"
+        tabindex="0"
+      >
+        <label
+          class="DropdownMultiSelect__CurrentSelection-sc-1l0dd9j-4 ciGzIm"
+        >
+          Retailer
+        </label>
+        <svg
+          class="DropdownMultiSelect__DropdownIcon-sc-1l0dd9j-2 nofyI"
+          height="28"
+          viewBox="0 0 24 24"
+          width="28"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </fieldset>
+    </form>
+    <form
+      class="DropdownSingleSelect__Wrapper-sc-1xd93zm-0 hgrMwQ"
+    >
+      <fieldset
+        class="DropdownSingleSelect__MultiselectButton-sc-1xd93zm-1 hKjYil"
+        tabindex="0"
+      >
+        <label
+          class="DropdownSingleSelect__CurrentSelection-sc-1xd93zm-4 iQqCP"
+        >
+          Exp. date
+        </label>
+        <svg
+          class="DropdownSingleSelect__DropdownIcon-sc-1xd93zm-2 jGZNOF"
+          height="28"
+          viewBox="0 0 24 24"
+          width="28"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </fieldset>
+    </form>
+  </div>
+  <main
+    class="Grid__Wrapper-sc-mkvy52-0 bWukEu pages__FlyersGrid-sc-15y7g01-3 wUCkt"
+  >
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Decathlon
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Sport acquatici - sup gonfiabile
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Sport e Moda
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Il gusto dell'estate.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Promozione Purina
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          50 Prodotti al 50%
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Il sole entra in casa
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          L'estate sta arrivando.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          L'estate sta arrivando
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Fare e rinnovare Soluzioni e occasioni!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Lidl
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Brochure Gusto & Benessere
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Sta arrivando l'estate
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Estate in Vacanza
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          PENNY a Prato
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Nuova apertura PENNY a Prato
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Europei MediaWorld
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La partita si gioca dove sei tu!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Sconti di stagione.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          L'estate addosso
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          I cattivissimi scendono in campo
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Lidl
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Cancellazione gratuita
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Passione biciclette
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Nuova apertura PENNY a Torino
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Nuova apertura a Torino
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Primavera in risparmio
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Apertura a Gorgonzola!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Auguri Mediaworld!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          SOTTOCOSTO MediaWorld!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La spesa senza stress
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La spesa e senza stress!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Metti in luce la tua bellezza
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Vivere Bene Conviene
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Eurospin
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Speciale anniversario
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          X Days di MediaWorld!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Goditi la bella-stagione
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Fare-e rinnovare. Soluzioni e occasioni!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Apertura
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Goditi la bella stagione
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Fare e rinnovare. Soluzioni e occasioni!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Apertura Genova
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Maxi formato grande convenienza.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Passione
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Speciale Piscine
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Eurospin
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Sconto del 25% su tanti prodotti
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Prendi al volo le migliori offerte
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Conforama
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Catalogo Divani
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Arredamento
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Lidl
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Brochure Giardino 2021
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Lidl
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Volantino settimanale
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Il TOP della Tecnologia
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Mondo Convenienza
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Camerette
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Arredamento
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Apple Music
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Tutto a 1€ 2€ 3€ e tante altre offerte
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Sconto Green
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          SCONTO SUBITO
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Nuova Energia alla tua casa
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Lidl
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Lidl Viaggi
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Il colore della convenienza.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Pasqua
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Vivi i tuoi spazi esterni
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          0% il meglio degli accessori
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Lidl
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Una buona Pasqua
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La moda cresce con loro
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          0% muoviti smart
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Auguri frizzanti.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Nuova apertura a Prato.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Nuova apertura a Prato!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Porta fuori il tuo stile
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Eurospin
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La spesa online
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Eurospin
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La spesa online.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Decathlon
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Offerte Decathlon 
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Sport e Moda
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Buona festa del papà
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          0% rimaniamo connessi
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Lidl
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Brochure Pasqua 2021
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Prezzi dolcissimi.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Eccellenze al femminile
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Bontà e convenienza 
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Crescere con Amore
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Il festival del risparmio
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Consegna Gratuita
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Weekend Shock!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La pasqua in tavola
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La forza del risparmio.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La tua casa come piace a te
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Scopri il negozio tutto rinnovato
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Regali speciali per donne uniche
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Immergi la tua casa nel verde
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Bricocenter
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Preparati alla bella stagione!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Bricolage
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Eurospin
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          E' arrivato un nuovo modo per fare la spesa
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Il colore della qualità.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          IKEA
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Cucine 2021
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Arredamento
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          IKEA
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Guardaroba 2021
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Arredamento
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          IKEA
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Catalogo 2021
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Arredamento
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Guarda che fresco!
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Catalogo Giardinaggio
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Eurospin
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Tante offerte a 1 €
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Prezzi da batticuore
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          La convenienza è un'eccellenza.
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Carrefour Ipermercati
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Dall'11 al 25 febbraio
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Iper e super
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          MediaWorld
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Dal 8 al 25 febbraio
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Elettronica
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Penny Market
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Sconti di stagione
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Discount
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Mondo Convenienza
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Speciale 2021
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Arredamento
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+    <article
+      class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    >
+      <div />
+      <div
+        class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      >
+        <span
+          class="GridItem__RetailerName-sc-qnp2w-3"
+        >
+          Conforama
+        </span>
+        <span
+          class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        >
+          Fino al 50% di sconti
+        </span>
+        <span
+          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        >
+          Arredamento
+        </span>
+        <button
+          class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        >
+          <svg
+            aria-hidden="true"
+            focusable="false"
+            style="width: 28px; height: 28px;"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+            />
+          </svg>
+        </button>
+      </div>
+    </article>
+  </main>
+</div>
+`;

@@ -23,16 +23,16 @@ export const GridItem = memo(({ flyer, isBookmarked, addFlyer, removeFlyer }: Gr
 			alt={'waiting'}
 		/>		
 		<Description>
-			<RetailerName>
+			<RetailerName id={'flyer-retailer-name'}>
 				{retailer_name}
 			</RetailerName>
-			<Title>
+			<Title id={'flyer-title'}>
 				{title}
 			</Title>
-			<CategoryName>
+			<CategoryName id={'flyer-category-name'}>
 				{category_name}
 			</CategoryName>
-			<Bookmarked isBookmarked={isBookmarked} onClick={() => isBookmarked ? removeFlyer(id) : addFlyer(id)}>
+			<Bookmarked  data-t={`flyer-is-bookmarked=${isBookmarked}`} isBookmarked={isBookmarked} onClick={() => isBookmarked ? removeFlyer(id) : addFlyer(id)}>
 				<Heart size={28}></Heart>
 			</Bookmarked>
 		</Description>

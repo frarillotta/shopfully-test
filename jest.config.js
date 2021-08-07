@@ -5,7 +5,6 @@ module.exports = {
 		'**/__tests__/*.test.ts',
 		'**/__tests__/*.test.tsx',
 	],
-	setupFilesAfterEnv: ['./jest.setup.js'],
 	moduleNameMapper: {
 		'\\.(css|less)$': '<rootDir>/__mocks__/styleMock.js',
 	},

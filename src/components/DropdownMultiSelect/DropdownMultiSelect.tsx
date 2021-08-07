@@ -6,12 +6,15 @@ import { Delete } from '../SVGs/Delete';
 type DropdownSelectProps = {
 	defaultValue: string;
 	list: string[];
-	setFilter: (filters: string[]) => void;
+	setFilter: (filters: string[] | string) => void;
+	variant?: 'multi' | 'single';
 }
 
-export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter}: DropdownSelectProps) => {
+export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, variant = 'multi'}: DropdownSelectProps) => {
 
-	const [currentSelection, setCurrentSelection] = useState<string[]>([]);
+	const initialState = variant === 'multi' ? [] : null;
+
+	const [currentSelection, setCurrentSelection] = useState<string[] | string>(initialState);
 	const dropdownEl = useRef<Element>();
 
 	const [isExpanded, setIsExpanded] = useState(false);
@@ -24,11 +27,13 @@ export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter}: D
 	useEffect(()=>{
 		setFilter(currentSelection);
 	}, [currentSelection]);
+	
+	const handleLabelClick = (val) => setCurrentSelection(val);
 
 	const handleCheckboxClick = (event) => {
 		const val = event.target.value;
 		const elToRemoveIndex = currentSelection.indexOf(String(val));
-		const selectCopy = [...currentSelection];
+		const selectCopy = [...currentSelection as string[]];
 		if (elToRemoveIndex > -1) {
 			selectCopy.splice(elToRemoveIndex, 1);
 		} else {
@@ -50,23 +55,41 @@ export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter}: D
 		};
 	});
 
-	return <Wrapper ref={dropdownEl}>
-		<MultiselectButton tabIndex='0' onClick={() => setIsExpanded(!isExpanded)}>
-			<CurrentSelection>{
+	if (variant === 'multi') return <Wrapper ref={dropdownEl}>
+		<MultiselectButton id={'multiselect-button'} tabIndex='0' onClick={() => setIsExpanded(!isExpanded)}>
+			<CurrentSelection id={'multiselect-current-val'}>{
 				currentSelection.length > 0 
-					? currentSelection.reduce( (accumulator, selection, index) => {
+					? (currentSelection as string[]).reduce( (accumulator, selection, index) => {
 						return `${accumulator}${index > 0 ? ',' : ''} ${selection}`;
 					}, '') 
 					: defaultValue
 			}</CurrentSelection>
 			{currentSelection.length > 0 ? <DeleteIcon type='button' onClick={() => setCurrentSelection([])}><Delete/></DeleteIcon> : <DropdownIcon/>}
 		</MultiselectButton>
-		{isExpanded && <DropdownMenu>
+		{isExpanded && <DropdownMenu id={'multiselect-dropdown-menu'}>
 			{list.map((val: string) => 
-				<SelectOption key={val}>
+				<SelectOption id={'multiselect-dropdown-option'} key={val}>
 					<FormWrapper>
-						<FormLabel>{val}</FormLabel>
+						<FormLabel isClickable={false}>{val}</FormLabel>
 						<FormCheckbox checked={currentSelection.includes(val)} onChange={handleCheckboxClick} type={'checkbox'} value={val}/>
+					</FormWrapper>
+				</SelectOption>
+			)}
+		</DropdownMenu>}
+	</Wrapper>;
+
+	if (variant === 'single') return <Wrapper ref={dropdownEl}>
+		<MultiselectButton id={'multiselect-button'} tabIndex='0' onClick={() => setIsExpanded(!isExpanded)}>
+			<CurrentSelection id={'multiselect-current-val'}>{
+				currentSelection || defaultValue
+			}</CurrentSelection>
+			{currentSelection ? <DeleteIcon type='button' onClick={() => setCurrentSelection(null)}><Delete/></DeleteIcon> : <DropdownIcon/>}
+		</MultiselectButton>
+		{isExpanded && <DropdownMenu id={'multiselect-dropdown-menu'}>
+			{list.map((val: string) => 
+				<SelectOption id={'multiselect-dropdown-option'} key={val}>
+					<FormWrapper>
+						<FormLabel isClickable={true} onClick={() => handleLabelClick(val)}>{val}</FormLabel>
 					</FormWrapper>
 				</SelectOption>
 			)}
@@ -183,5 +206,5 @@ const FormCheckbox = styled.input`
 `;
 
 const FormLabel = styled.label`
-    
+    cursor: ${props => props.isClickable ? 'pointer' : 'auto'};
 `;

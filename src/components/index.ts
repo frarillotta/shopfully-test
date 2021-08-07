@@ -1,4 +1,3 @@
-export { DropdownSingleSelect } from './DropdownSingleSelect/DropdownSingleSelect';
 export { MultiselectIcon } from './SVGs/MultiselectIcon';
 export { Heart } from './SVGs/Heart';
 export { Delete } from './SVGs/Delete';
