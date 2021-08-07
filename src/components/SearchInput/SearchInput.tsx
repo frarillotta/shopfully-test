@@ -3,7 +3,13 @@ import styled from 'styled-components';
 import { Search } from '../SVGs/Search';
 import { useMemo } from 'react';
 
-export function SearchInput({queries = [], label, setQuery}) {
+type SearchInputProps = {
+	queries: string[],
+	label: string,
+	setQuery: (val: string) => void
+}
+
+export function SearchInput({queries = [], label, setQuery}: SearchInputProps) {
 
 	const handleChange = (event) => {
 		setQuery(event[0].target.value);

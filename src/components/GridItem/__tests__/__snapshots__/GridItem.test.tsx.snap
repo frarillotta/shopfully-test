@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GridItem when the grid item is rendered and is bookmarked should have a consistent snapshot 1`] = `
+<div>
+  <article
+    class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    id="flyer-694041"
+  >
+    <div />
+    <div
+      class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      id="flyer-description"
+    >
+      <span
+        class="GridItem__RetailerName-sc-qnp2w-3"
+        id="flyer-retailer-name"
+      >
+        mockName
+      </span>
+      <span
+        class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        id="flyer-title"
+      >
+        Sport acquatici - sup gonfiabile
+      </span>
+      <span
+        class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        id="flyer-category-name"
+      >
+        mockName
+      </span>
+      <button
+        class="GridItem__Bookmarked-sc-qnp2w-6 dtrsUa"
+        data-t-flyer-is-bookmarked="true"
+      >
+        <svg
+          aria-hidden="true"
+          focusable="false"
+          style="width: 28px; height: 28px;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+          />
+        </svg>
+      </button>
+    </div>
+  </article>
+</div>
+`;
+
+exports[`GridItem when the grid item is rendered and is not bookmarked should have a consistent snapshot 1`] = `
+<div>
+  <article
+    class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
+    id="flyer-694041"
+  >
+    <div />
+    <div
+      class="GridItem__Description-sc-qnp2w-2 cnkKSq"
+      id="flyer-description"
+    >
+      <span
+        class="GridItem__RetailerName-sc-qnp2w-3"
+        id="flyer-retailer-name"
+      >
+        mockName
+      </span>
+      <span
+        class="GridItem__Title-sc-qnp2w-4 pJOSk"
+        id="flyer-title"
+      >
+        Sport acquatici - sup gonfiabile
+      </span>
+      <span
+        class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        id="flyer-category-name"
+      >
+        mockName
+      </span>
+      <button
+        class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
+        data-t-flyer-is-bookmarked="false"
+      >
+        <svg
+          aria-hidden="true"
+          focusable="false"
+          style="width: 28px; height: 28px;"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"
+          />
+        </svg>
+      </button>
+    </div>
+  </article>
+</div>
+`;

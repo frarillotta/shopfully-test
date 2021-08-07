@@ -8,7 +8,7 @@ type DropdownSelectProps = {
 	list: string[];
 	setFilter: (filters: string[] | string) => void;
 	variant?: 'multi' | 'single';
-}
+};
 
 export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, variant = 'multi'}: DropdownSelectProps) => {
 
@@ -56,7 +56,7 @@ export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, va
 	});
 
 	if (variant === 'multi') return <Wrapper ref={dropdownEl}>
-		<MultiselectButton id={'multiselect-button'} tabIndex='0' onClick={() => setIsExpanded(!isExpanded)}>
+		<MultiselectButton tabIndex='0' onClick={() => setIsExpanded(!isExpanded)}>
 			<CurrentSelection id={'multiselect-current-val'}>{
 				currentSelection.length > 0 
 					? (currentSelection as string[]).reduce( (accumulator, selection, index) => {

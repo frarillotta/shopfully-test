@@ -46,7 +46,7 @@ export default function Home() {
 	if (activeFilters.endDate) {
 		const date = new Date(activeFilters.endDate);
 		flyers = flyers.filter((flyer) => 
-			new Date(flyer.end_date) >= date
+			new Date(flyer.end_date) <= date
 		);
 	};
 
@@ -57,7 +57,7 @@ export default function Home() {
 				<meta name="description" content='Shopfully demo'></meta>
 			</Head>
 			<Header>
-				<DrawerButton ref={drawerOpenerRef}>
+				<DrawerButton id={'drawer-opener'} ref={drawerOpenerRef}>
 					<Dehaze/>
 				</DrawerButton>
 				<HeaderTitle>
@@ -114,12 +114,13 @@ export default function Home() {
 						</DrawerSubtitle>
 					</DrawerHeader>
 					<DrawerContent>
-						{bookmarkedFlyers.map( flyer => (
-							<DrawerFlyers key={flyer.id}>
-								<DrawerFlyersIcon onClick={() => removeFlyer(flyer.id)}><Heart/></DrawerFlyersIcon>
-								<DrawerFlyersLabel id={'drawer-label'}>{flyer.title}</DrawerFlyersLabel>
-							</DrawerFlyers>
-						))}
+						{bookmarkedFlyers.map( flyer => {
+							const {id, title} = flyer;
+							return <DrawerFlyers data-t-drawer-flyer={id} key={id}>
+								<DrawerFlyersIcon id={'drawer-flyers-icon'} onClick={() => removeFlyer(id)}><Heart/></DrawerFlyersIcon>
+								<DrawerFlyersLabel id={'drawer-label'}>{title}</DrawerFlyersLabel>
+							</DrawerFlyers>;
+						})}
 					</DrawerContent>
 				</DrawerContentWrapper>
 			</Drawer>

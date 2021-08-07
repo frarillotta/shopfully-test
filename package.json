@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-	"start-server": "npm start",
+    "start-server": "npm start",
     "jest": "jest",
     "tsc": "tsc",
     "cy:open": "ELECTRON_EXTRA_LAUNCH_ARGS=--js-flags=--expose_gc cypress open -P .",

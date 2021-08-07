@@ -10,6 +10,7 @@ exports[`Drawer when the drawer is opened should have a consistent snapshot 1`] 
     />
     <aside
       class="Drawer__Aside-sc-1r57jg0-2 ffAEfq"
+      id="drawer"
     >
       <div>
         mock content

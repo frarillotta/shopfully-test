@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Drawer when the drawer is rendered as multiselection should have a consistent snapshot 1`] = `
+<div>
+  <form
+    class="DropdownMultiSelect__Wrapper-sc-1l0dd9j-0 gkeTch"
+  >
+    <fieldset
+      class="DropdownMultiSelect__MultiselectButton-sc-1l0dd9j-1 kAKvnI"
+      tabindex="0"
+    >
+      <label
+        class="DropdownMultiSelect__CurrentSelection-sc-1l0dd9j-4 ciGzIm"
+        id="multiselect-current-val"
+      >
+        mockdefaultvalue
+      </label>
+      <svg
+        class="DropdownMultiSelect__DropdownIcon-sc-1l0dd9j-2 nofyI"
+        height="28"
+        viewBox="0 0 24 24"
+        width="28"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+    </fieldset>
+  </form>
+</div>
+`;
+
+exports[`Drawer when the drawer is rendered as single selection should have a consistent snapshot 1`] = `
+<div>
+  <form
+    class="DropdownMultiSelect__Wrapper-sc-1l0dd9j-0 gkeTch"
+  >
+    <fieldset
+      class="DropdownMultiSelect__MultiselectButton-sc-1l0dd9j-1 kAKvnI"
+      id="multiselect-button"
+      tabindex="0"
+    >
+      <label
+        class="DropdownMultiSelect__CurrentSelection-sc-1l0dd9j-4 ciGzIm"
+        id="multiselect-current-val"
+      >
+        mockdefaultvalue
+      </label>
+      <svg
+        class="DropdownMultiSelect__DropdownIcon-sc-1l0dd9j-2 nofyI"
+        height="28"
+        viewBox="0 0 24 24"
+        width="28"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M7 10l5 5 5-5z"
+        />
+      </svg>
+    </fieldset>
+  </form>
+</div>
+`;

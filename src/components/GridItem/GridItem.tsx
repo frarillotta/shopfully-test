@@ -15,14 +15,14 @@ type GridItemProps = {
 export const GridItem = memo(({ flyer, isBookmarked, addFlyer, removeFlyer }: GridItemProps) => {
 	const { id, title, retailer_name, category_name, asset } = flyer;
 
-	return <Wrapper>
+	return <Wrapper id={`flyer-${id}`}>
 		<NextImage
 			src={asset} 
 			height={175} 
 			width={250}
 			alt={'waiting'}
 		/>		
-		<Description>
+		<Description id={'flyer-description'}>
 			<RetailerName id={'flyer-retailer-name'}>
 				{retailer_name}
 			</RetailerName>
@@ -32,7 +32,7 @@ export const GridItem = memo(({ flyer, isBookmarked, addFlyer, removeFlyer }: Gr
 			<CategoryName id={'flyer-category-name'}>
 				{category_name}
 			</CategoryName>
-			<Bookmarked  data-t={`flyer-is-bookmarked=${isBookmarked}`} isBookmarked={isBookmarked} onClick={() => isBookmarked ? removeFlyer(id) : addFlyer(id)}>
+			<Bookmarked  data-t-flyer-is-bookmarked={isBookmarked} isBookmarked={isBookmarked} onClick={() => isBookmarked ? removeFlyer(id) : addFlyer(id)}>
 				<Heart size={28}></Heart>
 			</Bookmarked>
 		</Description>

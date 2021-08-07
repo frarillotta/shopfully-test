@@ -9,15 +9,14 @@ type DrawerProps = {
 export function Drawer({openerEl, children}: DrawerProps) {
 
 	const [isExpanded, setIsExpanded] = useState(false);
-	const drawerEl = useRef<Element>();
+	const drawerEl = useRef<HTMLElement>();
+	const backdropEl = useRef<HTMLElement>();
 
-	function exit(el) {
-		el.style.transform = 'translateX(-100%)';
-	};
 
 	const handleEvent = (e) => {
 		if (drawerEl.current?.contains(e.target)) return;
-		exit(drawerEl.current);
+		drawerEl.current.style.transform = 'translateX(-100%)';
+		backdropEl.current.style.opacity = '0';
 		setTimeout(() => setIsExpanded(!isExpanded), 300);
 	};
 
@@ -40,7 +39,7 @@ export function Drawer({openerEl, children}: DrawerProps) {
 	return <>
 		{isExpanded && 
 			<Wrapper>
-				<Backdrop/>
+				<Backdrop ref={backdropEl}/>
 				<Aside id={'drawer'} ref={drawerEl}>
 					{children}
 				</Aside>
