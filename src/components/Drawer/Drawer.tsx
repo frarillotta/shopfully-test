@@ -12,7 +12,6 @@ export function Drawer({openerEl, children}: DrawerProps) {
 	const drawerEl = useRef<HTMLElement>();
 	const backdropEl = useRef<HTMLElement>();
 
-
 	const handleEvent = (e) => {
 		if (drawerEl.current?.contains(e.target)) return;
 		drawerEl.current.style.transform = 'translateX(-100%)';

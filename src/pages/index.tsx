@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import Head from 'next/head';
 import styled from 'styled-components';
 import { getFlyers, getCategories, getRetailers } from '../API';

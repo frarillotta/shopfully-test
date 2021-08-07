@@ -26,6 +26,7 @@ export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, va
 
 	useEffect(()=>{
 		setFilter(currentSelection);
+	// eslint-disable-next-line react-hooks/exhaustive-deps
 	}, [currentSelection]);
 	
 	const handleLabelClick = (val) => setCurrentSelection(val);

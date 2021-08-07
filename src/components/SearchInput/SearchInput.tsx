@@ -17,6 +17,7 @@ export function SearchInput({queries = [], label, setQuery}: SearchInputProps) {
 
 	const debouncedChangeHandler = useMemo(
 		() => debounce(handleChange, 300)
+		// eslint-disable-next-line react-hooks/exhaustive-deps
 		, []);
 
 	return (<>
