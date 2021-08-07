@@ -6,10 +6,11 @@ import { useMemo } from 'react';
 type SearchInputProps = {
 	queries: string[],
 	label: string,
-	setQuery: (val: string) => void
+	setQuery: (val: string) => void,
+	id?: string
 }
 
-export function SearchInput({queries = [], label, setQuery}: SearchInputProps) {
+export function SearchInput({queries = [], label, setQuery, id = ''}: SearchInputProps) {
 
 	const handleChange = (event) => {
 		setQuery(event[0].target.value);
@@ -21,7 +22,7 @@ export function SearchInput({queries = [], label, setQuery}: SearchInputProps) {
 		, []);
 
 	return (<>
-		<Wrapper>
+		<Wrapper id={id}>
 			<InputWrapper>
 				<Icon/>
 				<datalist id='searchQueries'>

@@ -70,6 +70,7 @@ export default function Home() {
 					label={'Search a Flyer'} 
 					queries={flyerTitles} 
 					setQuery={(query)=> setActiveFilters((activeFilters) => ({...activeFilters, query: query}))}
+					id={'flyer-search'}
 				/>
 			</SearchWrapper>
 			<DropdownsWrapper>
@@ -79,6 +80,7 @@ export default function Home() {
 					setFilter={useCallback((filters: string[]) => { 
 						setActiveFilters((activeFilters) => ({...activeFilters, categories: filters}));
 					}, [])}
+					id='filter-category'
 				/>
 				<DropdownMultiSelect 
 					defaultValue={'Retailer'} 
@@ -86,6 +88,7 @@ export default function Home() {
 					setFilter={useCallback((filters: string[]) => { 
 						setActiveFilters((activeFilters) => ({...activeFilters, retailers: filters}));
 					}, [])}
+					id='filter-retailer'
 				/>
 				<DropdownMultiSelect 
 					variant={'single'}
@@ -94,6 +97,7 @@ export default function Home() {
 					setFilter={useCallback((filter: string) => { 
 						setActiveFilters((activeFilters) => ({...activeFilters, endDate: filter}));
 					}, [])}
+					id='filter-exp-date'
 				/>
 			</DropdownsWrapper>
 			<FlyersGrid 

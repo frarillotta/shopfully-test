@@ -8,9 +8,10 @@ type DropdownSelectProps = {
 	list: string[];
 	setFilter: (filters: string[] | string) => void;
 	variant?: 'multi' | 'single';
+	id?: string;
 };
 
-export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, variant = 'multi'}: DropdownSelectProps) => {
+export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, variant = 'multi', id = ''}: DropdownSelectProps) => {
 
 	const initialState = variant === 'multi' ? [] : null;
 
@@ -56,7 +57,7 @@ export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, va
 		};
 	});
 
-	if (variant === 'multi') return <Wrapper ref={dropdownEl}>
+	if (variant === 'multi') return <Wrapper id={id} ref={dropdownEl}>
 		<MultiselectButton tabIndex='0' onClick={() => setIsExpanded(!isExpanded)}>
 			<CurrentSelection id={'multiselect-current-val'}>{
 				currentSelection.length > 0 
@@ -68,8 +69,8 @@ export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, va
 			{currentSelection.length > 0 ? <DeleteIcon type='button' onClick={() => setCurrentSelection([])}><Delete/></DeleteIcon> : <DropdownIcon/>}
 		</MultiselectButton>
 		{isExpanded && <DropdownMenu id={'multiselect-dropdown-menu'}>
-			{list.map((val: string) => 
-				<SelectOption id={'multiselect-dropdown-option'} key={val}>
+			{list.map((val: string, index) => 
+				<SelectOption id={`multiselect-dropdown-option-${index}`} key={val}>
 					<FormWrapper>
 						<FormLabel isClickable={false}>{val}</FormLabel>
 						<FormCheckbox checked={currentSelection.includes(val)} onChange={handleCheckboxClick} type={'checkbox'} value={val}/>
@@ -79,7 +80,7 @@ export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, va
 		</DropdownMenu>}
 	</Wrapper>;
 
-	if (variant === 'single') return <Wrapper ref={dropdownEl}>
+	if (variant === 'single') return <Wrapper id={id} ref={dropdownEl}>
 		<MultiselectButton id={'multiselect-button'} tabIndex='0' onClick={() => setIsExpanded(!isExpanded)}>
 			<CurrentSelection id={'multiselect-current-val'}>{
 				currentSelection || defaultValue

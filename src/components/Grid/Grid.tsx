@@ -13,7 +13,7 @@ type GridProps = {
 
 export function Grid({flyers, bookmarkedFlyers, addFlyer, removeFlyer, className = ''}: GridProps) {
 
-	return <Wrapper className={className}>
+	return <Wrapper id={'flyers-grid'} className={className}>
 		{flyers.map((flyer) => {
 			const {id} = flyer;
 			const isBookmarked = bookmarkedFlyers?.includes(String(id)) || false;
