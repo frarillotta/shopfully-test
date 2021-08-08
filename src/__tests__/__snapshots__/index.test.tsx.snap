@@ -6,6 +6,7 @@ exports[`Homepage should have a consistent snapshot 1`] = `
     class="pages__Header-sc-15y7g01-0 RDVlX"
   >
     <button
+      aria-label="drawer-button"
       class="pages__DrawerButton-sc-15y7g01-9 lceXZr"
       id="drawer-opener"
     >
@@ -31,6 +32,7 @@ exports[`Homepage should have a consistent snapshot 1`] = `
   >
     <div
       class="SearchInput__Wrapper-sc-16ggnbp-0 mNaa-d"
+      id="flyer-search"
     >
       <div
         class="SearchInput__InputWrapper-sc-16ggnbp-2 bdJLXi"
@@ -363,6 +365,7 @@ exports[`Homepage should have a consistent snapshot 1`] = `
   >
     <form
       class="DropdownMultiSelect__Wrapper-sc-1l0dd9j-0 gkeTch"
+      id="filter-category"
     >
       <fieldset
         class="DropdownMultiSelect__MultiselectButton-sc-1l0dd9j-1 kAKvnI"
@@ -389,6 +392,7 @@ exports[`Homepage should have a consistent snapshot 1`] = `
     </form>
     <form
       class="DropdownMultiSelect__Wrapper-sc-1l0dd9j-0 gkeTch"
+      id="filter-retailer"
     >
       <fieldset
         class="DropdownMultiSelect__MultiselectButton-sc-1l0dd9j-1 kAKvnI"
@@ -415,6 +419,7 @@ exports[`Homepage should have a consistent snapshot 1`] = `
     </form>
     <form
       class="DropdownMultiSelect__Wrapper-sc-1l0dd9j-0 gkeTch"
+      id="filter-exp-date"
     >
       <fieldset
         class="DropdownMultiSelect__MultiselectButton-sc-1l0dd9j-1 kAKvnI"
@@ -443,6 +448,7 @@ exports[`Homepage should have a consistent snapshot 1`] = `
   </div>
   <main
     class="Grid__Wrapper-sc-mkvy52-0 bWukEu pages__FlyersGrid-sc-15y7g01-3 wUCkt"
+    id="flyers-grid"
   >
     <article
       class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
@@ -466,12 +472,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Sport acquatici - sup gonfiabile
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Sport e Moda
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -510,12 +517,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Il gusto dell'estate.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -554,12 +562,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Promozione Purina
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -598,12 +607,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           50 Prodotti al 50%
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -642,12 +652,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Il sole entra in casa
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -686,12 +697,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           L'estate sta arrivando.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -730,12 +742,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           L'estate sta arrivando
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -774,12 +787,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Fare e rinnovare Soluzioni e occasioni!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -818,12 +832,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Brochure Gusto & Benessere
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -862,12 +877,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Sta arrivando l'estate
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -906,12 +922,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Estate in Vacanza
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -950,12 +967,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           PENNY a Prato
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -994,12 +1012,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Nuova apertura PENNY a Prato
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1038,12 +1057,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Europei MediaWorld
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1082,12 +1102,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La partita si gioca dove sei tu!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1126,12 +1147,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Sconti di stagione.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1170,12 +1192,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           L'estate addosso
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1214,12 +1237,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           I cattivissimi scendono in campo
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1258,12 +1282,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Cancellazione gratuita
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1302,12 +1327,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Passione biciclette
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1346,12 +1372,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Nuova apertura PENNY a Torino
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1390,12 +1417,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Nuova apertura a Torino
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1434,12 +1462,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Primavera in risparmio
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1478,12 +1507,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Apertura a Gorgonzola!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1522,12 +1552,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Auguri Mediaworld!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1566,12 +1597,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           SOTTOCOSTO MediaWorld!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1610,12 +1642,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La spesa senza stress
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1654,12 +1687,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La spesa e senza stress!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1698,12 +1732,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Metti in luce la tua bellezza
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1742,12 +1777,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Vivere Bene Conviene
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1786,12 +1822,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Speciale anniversario
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1830,12 +1867,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           X Days di MediaWorld!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1874,12 +1912,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Goditi la bella-stagione
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1918,12 +1957,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Fare-e rinnovare. Soluzioni e occasioni!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -1962,12 +2002,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Apertura
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2006,12 +2047,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Goditi la bella stagione
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2050,12 +2092,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Fare e rinnovare. Soluzioni e occasioni!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2094,12 +2137,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Apertura Genova
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2138,12 +2182,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Maxi formato grande convenienza.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2182,12 +2227,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Passione
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2226,12 +2272,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Speciale Piscine
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2270,12 +2317,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Sconto del 25% su tanti prodotti
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2314,12 +2362,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Prendi al volo le migliori offerte
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2358,12 +2407,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Catalogo Divani
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Arredamento
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2402,12 +2452,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Brochure Giardino 2021
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2446,12 +2497,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Volantino settimanale
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2490,12 +2542,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Il TOP della Tecnologia
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2534,12 +2587,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Camerette
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Arredamento
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2578,12 +2632,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Apple Music
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2622,12 +2677,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Tutto a 1€ 2€ 3€ e tante altre offerte
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2666,12 +2722,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Sconto Green
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2710,12 +2767,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           SCONTO SUBITO
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2754,12 +2812,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Nuova Energia alla tua casa
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2798,12 +2857,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Lidl Viaggi
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2842,12 +2902,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Il colore della convenienza.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2886,12 +2947,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Pasqua
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2930,12 +2992,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Vivi i tuoi spazi esterni
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -2974,12 +3037,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           0% il meglio degli accessori
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3018,12 +3082,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Una buona Pasqua
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3062,12 +3127,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La moda cresce con loro
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3106,12 +3172,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           0% muoviti smart
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3150,12 +3217,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Auguri frizzanti.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3194,12 +3262,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Nuova apertura a Prato.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3238,12 +3307,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Nuova apertura a Prato!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3282,12 +3352,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Porta fuori il tuo stile
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3326,12 +3397,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La spesa online
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3370,12 +3442,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La spesa online.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3414,12 +3487,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Offerte Decathlon 
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Sport e Moda
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3458,12 +3532,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Buona festa del papà
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3502,12 +3577,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           0% rimaniamo connessi
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3546,12 +3622,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Brochure Pasqua 2021
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3590,12 +3667,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Prezzi dolcissimi.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3634,12 +3712,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Eccellenze al femminile
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3678,12 +3757,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Bontà e convenienza 
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3722,12 +3802,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Crescere con Amore
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3766,12 +3847,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Il festival del risparmio
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3810,12 +3892,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Consegna Gratuita
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3854,12 +3937,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Weekend Shock!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3898,12 +3982,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La pasqua in tavola
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3942,12 +4027,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La forza del risparmio.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -3986,12 +4072,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La tua casa come piace a te
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4030,12 +4117,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Scopri il negozio tutto rinnovato
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4074,12 +4162,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Regali speciali per donne uniche
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4118,12 +4207,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Immergi la tua casa nel verde
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4162,12 +4252,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Preparati alla bella stagione!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Bricolage
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4206,12 +4297,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           E' arrivato un nuovo modo per fare la spesa
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4250,12 +4342,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Il colore della qualità.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4294,12 +4387,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Cucine 2021
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Arredamento
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4338,12 +4432,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Guardaroba 2021
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Arredamento
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4382,12 +4477,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Catalogo 2021
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Arredamento
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4426,12 +4522,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Guarda che fresco!
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4470,12 +4567,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Catalogo Giardinaggio
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4514,12 +4612,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Tante offerte a 1 €
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4558,12 +4657,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Prezzi da batticuore
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4602,12 +4702,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           La convenienza è un'eccellenza.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4646,12 +4747,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Dall'11 al 25 febbraio
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Iper e super
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4690,12 +4792,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Dal 8 al 25 febbraio
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Elettronica
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4734,12 +4837,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Sconti di stagione
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Discount
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4778,12 +4882,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Speciale 2021
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Arredamento
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >
@@ -4822,12 +4927,13 @@ exports[`Homepage should have a consistent snapshot 1`] = `
           Fino al 50% di sconti
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           Arredamento
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >

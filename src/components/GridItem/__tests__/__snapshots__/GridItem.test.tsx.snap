@@ -24,12 +24,13 @@ exports[`GridItem when the grid item is rendered and is bookmarked should have a
         Sport acquatici - sup gonfiabile
       </span>
       <span
-        class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
         id="flyer-category-name"
       >
         mockName
       </span>
       <button
+        aria-label="bookmark-button"
         class="GridItem__Bookmarked-sc-qnp2w-6 dtrsUa"
         data-t-flyer-is-bookmarked="true"
       >
@@ -73,12 +74,13 @@ exports[`GridItem when the grid item is rendered and is not bookmarked should ha
         Sport acquatici - sup gonfiabile
       </span>
       <span
-        class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+        class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
         id="flyer-category-name"
       >
         mockName
       </span>
       <button
+        aria-label="bookmark-button"
         class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
         data-t-flyer-is-bookmarked="false"
       >

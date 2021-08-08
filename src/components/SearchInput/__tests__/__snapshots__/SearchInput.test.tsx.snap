@@ -4,6 +4,7 @@ exports[`SearchInput when the SearchInput is rendered should have a consistent s
 <div>
   <div
     class="SearchInput__Wrapper-sc-16ggnbp-0 mNaa-d"
+    id=""
   >
     <div
       class="SearchInput__InputWrapper-sc-16ggnbp-2 bdJLXi"

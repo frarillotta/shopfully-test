@@ -66,7 +66,15 @@ export const DropdownMultiSelect = memo(({defaultValue = '', list, setFilter, va
 					}, '') 
 					: defaultValue
 			}</CurrentSelection>
-			{currentSelection.length > 0 ? <DeleteIcon type='button' onClick={() => setCurrentSelection([])}><Delete/></DeleteIcon> : <DropdownIcon/>}
+			{currentSelection.length > 0 ? 
+				<DeleteIcon 
+					aria-label={'delete-current-selection'} 
+					type='button' 
+					onClick={() => setCurrentSelection([])}
+				>
+					<Delete/>
+				</DeleteIcon> 
+				: <DropdownIcon/>}
 		</MultiselectButton>
 		{isExpanded && <DropdownMenu id={'multiselect-dropdown-menu'}>
 			{list.map((val: string, index) => 

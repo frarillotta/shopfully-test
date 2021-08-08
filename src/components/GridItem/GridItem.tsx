@@ -32,7 +32,12 @@ export const GridItem = memo(({ flyer, isBookmarked, addFlyer, removeFlyer }: Gr
 			<CategoryName id={'flyer-category-name'}>
 				{category_name}
 			</CategoryName>
-			<Bookmarked  data-t-flyer-is-bookmarked={isBookmarked} isBookmarked={isBookmarked} onClick={() => isBookmarked ? removeFlyer(id) : addFlyer(id)}>
+			<Bookmarked  
+				data-t-flyer-is-bookmarked={isBookmarked} 
+				isBookmarked={isBookmarked} 
+				onClick={() => isBookmarked ? removeFlyer(id) : addFlyer(id)}
+				aria-label={'bookmark-button'}
+			>
 				<Heart size={28}></Heart>
 			</Bookmarked>
 		</Description>
@@ -83,7 +88,7 @@ const Title = styled.span`
 
 const CategoryName = styled.span`
 	font-size: 0.8rem;
-	color: grey;
+	color: #717171;
 `;
 
 const Bookmarked = styled.button`

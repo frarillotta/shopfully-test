@@ -4,6 +4,7 @@ exports[`Grid when the grid is rendered should have a consistent snapshot 1`] = 
 <div>
   <main
     class="Grid__Wrapper-sc-mkvy52-0 bWukEu"
+    id="flyers-grid"
   >
     <article
       class="GridItem__Wrapper-sc-qnp2w-0 kZQyAV"
@@ -27,12 +28,13 @@ exports[`Grid when the grid is rendered should have a consistent snapshot 1`] = 
           Sport acquatici - sup gonfiabile
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           mockName
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 dtrsUa"
           data-t-flyer-is-bookmarked="true"
         >
@@ -71,12 +73,13 @@ exports[`Grid when the grid is rendered should have a consistent snapshot 1`] = 
           Il gusto dellestate.
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           mockName
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 dtrsUa"
           data-t-flyer-is-bookmarked="true"
         >
@@ -115,12 +118,13 @@ exports[`Grid when the grid is rendered should have a consistent snapshot 1`] = 
           Promozione Purina
         </span>
         <span
-          class="GridItem__CategoryName-sc-qnp2w-5 hfFSve"
+          class="GridItem__CategoryName-sc-qnp2w-5 gFfsDG"
           id="flyer-category-name"
         >
           mockName
         </span>
         <button
+          aria-label="bookmark-button"
           class="GridItem__Bookmarked-sc-qnp2w-6 foYuNw"
           data-t-flyer-is-bookmarked="false"
         >

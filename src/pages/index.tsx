@@ -58,7 +58,11 @@ export default function Home() {
 				<meta name="description" content='Shopfully demo'></meta>
 			</Head>
 			<Header>
-				<DrawerButton id={'drawer-opener'} ref={drawerOpenerRef}>
+				<DrawerButton 
+					aria-label={'drawer-button'}
+					id={'drawer-opener'} 
+					ref={drawerOpenerRef}
+				>
 					<Dehaze/>
 				</DrawerButton>
 				<HeaderTitle>
