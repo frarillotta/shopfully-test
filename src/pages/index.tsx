@@ -25,7 +25,7 @@ export default function Home() {
 	const retailersArray = useMemo(() => Array.from(retailers.values()), []);
 	let flyers = useMemo(() => decorateFlyers(getFlyers(), categories, retailers), []);
 	const flyerTitles = useMemo(() => flyers.map(flyer => flyer.title), []);
-	const flyerEndDates = useMemo(() => Array.from(new Set(flyers.map(flyer => flyer.end_date))), []);
+	const flyerEndDates = useMemo(() => Array.from(new Set(flyers.map(flyer => flyer.end_date))).sort((first, second) => new Date(second).valueOf() - new Date(first).valueOf()), []);
 	const bookmarkedFlyers = useMemo(() => 
 		flyers.filter((flyer) => bookmarkedFlyersIds?.indexOf(String(flyer.id)) > -1)
 	, [bookmarkedFlyersIds]);
